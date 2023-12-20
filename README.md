@@ -3,5 +3,6 @@ ceci est un antivirus artisanal<br/><hr>
 je ne suis pas responsables des degats pouvant être causés par le virus dans le dossier analyse<br/>
 <br/><h2>merci de bien lire la section ci-dessous</h2><br/><br/>
 si vous rajoutez des fichiez en .txt veuillez ajouter leur signature sha512 dans le fichier hashlist.ps1<br/>
-si vous ajoutez leur signature sha512 dans le fichier hashlist.ps1 veuillez rajoutez les fichiezs correspondant renommés en .txt<br/>
+si vous ajoutez leur signature sha512 dans le fichier hashlist.ps1 veuillez rajoutez les fichiezs correspondant renommés en .txt<br/><br/>
+<hr>
 veillez toujours me mentionner si vous partagez ce projet<br/>
