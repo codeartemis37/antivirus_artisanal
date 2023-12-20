@@ -5,9 +5,9 @@ je ne suis pas responsables des degats pouvant être causés par le virus dans l
 <br/>
 <br/><h2>merci de bien lire la section ci-dessous</h2>
 <br/><br/>
-si vous rajoutez des fichiez en .txt veuillez ajouter leur signature sha256 dans le fichier hashlist.ps1
+si vous rajoutez des fichiez en .txt veuillez ajouter leur signature sha256 dans le fichier VirusHash.bdd
 <br/>
-si vous ajoutez leur signature sha256 dans le fichier hashlist.ps1 veuillez rajoutez les fichiers correspondant renommés en .txt
+si vous ajoutez leur signature sha256 dans le fichier VirusHash.bdd veuillez rajoutez les fichiers correspondant renommés en .txt
 <br/><br/><hr>
 la base de donnée vient de : https://raw.githubusercontent.com/anic17/Batch-Antivirus/master/VirusDataBaseHash.bav
 <br/>
