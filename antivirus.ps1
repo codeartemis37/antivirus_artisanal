@@ -33,7 +33,7 @@ if (Test-Path $directory -PathType Container) {
         $Progress++;
         Write-ProgressBar -Progress $Progress -Total $TotalFiles;
         Write-Host "";
-        $hashtest = Get-FileHash -Algorithm SHA512 $file.FullName;
+        $hashtest = Get-FileHash -Algorithm SHA256 $file.FullName;
         if ($hashlist.ContainsKey($hashtest.Hash)) {
             Write-Host "$($hashlist[$hashtest.Hash]) detecté dans $($file.Name)";
             Add-Content -Path $datescanfile -Value "hash $($hashtest.Hash) $($hashlist[$hashtest.Hash]) detecté dans $($file.Name)";
